@@ -117,4 +117,3 @@ void refresh() {
     log.debug "Executing 'refresh'"
     parent.manualRefresh()
 }
-
