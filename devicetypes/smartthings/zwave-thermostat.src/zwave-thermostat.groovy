@@ -586,4 +586,3 @@ def fanCirculate() {
 private getStandardDelay() {
 	1000
 }
-
